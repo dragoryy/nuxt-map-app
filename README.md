@@ -11,7 +11,6 @@ pnpm install
 Start the development server on `http://localhost:3000`:
 
 ```bash
-# pnpm
 pnpm dev
 ```
 
@@ -20,13 +19,11 @@ pnpm dev
 Build the application for production:
 
 ```bash
-# pnpm
 pnpm build
 ```
 
 Locally preview production build:
 
 ```bash
-# pnpm
 pnpm preview
 ```
